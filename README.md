@@ -74,6 +74,7 @@
 
 ### Community Tools
 <!-- Add community-built tools here -->
+- [PipRail MCP](https://github.com/piprail/piprail) - An MCP server giving a self-hosted Letta agent a budget-bound, self-custody wallet to pay x402 "402 Payment Required" APIs across many chains.
 - Your tool here! - Submit a PR
 
 ### Development Tools
